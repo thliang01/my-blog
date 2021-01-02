@@ -30,6 +30,9 @@ lightgallery: false
 license: ""
 ---
 
+{{< admonition >}}
+# Hugo’s directory structure
+{{< /admonition >}}
 # Hugo’s directory structure
 
 * archetypes: Archetypes are content template files that contain preconfigured front matter (date, title, draft). You can create new archetypes with custom preconfigured front matter fields.
