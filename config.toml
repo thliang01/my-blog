@@ -1,4 +1,4 @@
-baseURL = "http://thliamg.dev"
+baseURL = "https://thliang.dev"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
