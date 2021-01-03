@@ -1,8 +1,8 @@
 baseURL = "http://thliamg.dev"
 # [en, zh-cn, fr, ...] determines default content language
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh-hant"
 # language code
-languageCode = "en"
+languageCode = "zh-hant"
 title = "Thomas's Blogger"
 
 # Change the default theme to be use when building the site with Hugo
