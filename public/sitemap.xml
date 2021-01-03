@@ -2,6 +2,13 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/categories/</loc></url><url>
-            <loc>http://example.org/</loc></url><url>
-            <loc>http://example.org/tags/</loc></url></urlset>
+            <loc>https://thliang.dev/categories/</loc><lastmod>2021-01-03T03:36:31&#43;08:00</lastmod></url><url>
+            <loc>https://thliang.dev/posts/hi/</loc><lastmod>2021-01-03T03:36:31&#43;08:00</lastmod></url><url>
+            <loc>https://thliang.dev/tags/hugo/</loc><lastmod>2021-01-03T03:36:31&#43;08:00</lastmod></url><url>
+            <loc>https://thliang.dev/posts/hugo/</loc><lastmod>2021-01-03T03:36:31&#43;08:00</lastmod></url><url>
+            <loc>https://thliang.dev/posts/</loc><lastmod>2021-01-03T03:36:31&#43;08:00</lastmod></url><url>
+            <loc>https://thliang.dev/categories/static-web/</loc><lastmod>2021-01-03T03:36:31&#43;08:00</lastmod></url><url>
+            <loc>https://thliang.dev/tags/</loc><lastmod>2021-01-03T03:36:31&#43;08:00</lastmod></url><url>
+            <loc>https://thliang.dev/tags/test/</loc><lastmod>2021-01-03T03:36:31&#43;08:00</lastmod></url><url>
+            <loc>https://thliang.dev/categories/testing/</loc><lastmod>2021-01-03T03:36:31&#43;08:00</lastmod></url><url>
+            <loc>https://thliang.dev/</loc><lastmod>2021-01-03T03:36:31&#43;08:00</lastmod></url></urlset>

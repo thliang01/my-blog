@@ -1,7 +1,21 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - My New Hugo Site</title>
-        <link>http://example.org/tags/</link>
-        <description>Tags - Tag - My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /></channel>
+        <title>Tags - Tag - Thomas&#39;s Blogger</title>
+        <link>https://thliang.dev/tags/</link>
+        <description>Tags - Tag - Thomas&#39;s Blogger</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 03 Jan 2021 03:36:31 &#43;0800</lastBuildDate><atom:link href="https://thliang.dev/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Hugo</title>
+    <link>https://thliang.dev/tags/hugo/</link>
+    <pubDate>Sun, 03 Jan 2021 03:36:31 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://thliang.dev/tags/hugo/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Test</title>
+    <link>https://thliang.dev/tags/test/</link>
+    <pubDate>Sun, 03 Jan 2021 03:36:31 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://thliang.dev/tags/test/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
 </rss>
